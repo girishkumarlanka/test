@@ -1,0 +1,48 @@
+/* src/Article.css */
+.article {
+    display: flex;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    position: relative;
+    align-items: center;
+
+  }
+  
+  .article-image {
+    flex: 0 0 150px;
+    height: 150px;
+    margin-right: 20px;
+    border-radius: 8px;
+  }
+  
+  .article-content {
+    flex: 1;
+  }
+  
+  .article h4 {
+    margin: 0;
+  }
+  
+  .article p {
+    margin: 10px 0;
+  }
+  
+  .read-more {
+    display: none;
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+    background-color: #007bff;
+    color: rgb(241, 235, 57);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  .article:hover .read-more {
+    display: block;
+  }
+  

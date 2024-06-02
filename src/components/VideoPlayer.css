@@ -1,0 +1,21 @@
+/* src/VideoPlayer.css */
+.video-container {
+    width: 300px;
+	height: 200px;
+    margin: 0 auto;
+  }
+  
+  .video-thumbnail {
+	width: 300px;
+	height: 200px;    cursor: pointer;
+    border-radius: 8px; /* Optional: add some rounding for the thumbnail */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+  }
+  
+  .video-iframe {
+    width: 270px;
+	height: 170px;
+    border: none;
+    border-radius: 8px; /* Match thumbnail rounding */
+}
+  
