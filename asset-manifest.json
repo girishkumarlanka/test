@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ProfileTest/static/css/main.d1705ff4.css",
+    "main.js": "/ProfileTest/static/js/main.da6e3cad.js",
+    "static/js/453.32bc8d24.chunk.js": "/ProfileTest/static/js/453.32bc8d24.chunk.js",
+    "static/media/girish1.jpg": "/ProfileTest/static/media/girish1.a5a137bfbebff8be0dd4.jpg",
+    "static/media/girish.jpg": "/ProfileTest/static/media/girish.d7d3e414cd0254b5bfa7.jpg",
+    "static/media/him.jpg": "/ProfileTest/static/media/him.920ef7d5fb3dd61f08cd.jpg",
+    "static/media/dronagirimatha.jpg": "/ProfileTest/static/media/dronagirimatha.fd4ef2731e12de5717c8.jpg",
+    "static/media/kainchidham.jpg": "/ProfileTest/static/media/kainchidham.ebd6e0bc5208bb50c359.jpg",
+    "static/media/girnar.jpg": "/ProfileTest/static/media/girnar.90682c72023416b2ddd7.jpg",
+    "static/media/Himalayas.jpg": "/ProfileTest/static/media/Himalayas.c1e9ec93f30fcd4ec87e.jpg",
+    "static/media/ai.jpg": "/ProfileTest/static/media/ai.055b9fab00210cf8df3c.jpg",
+    "static/media/Haidakhan.jpg": "/ProfileTest/static/media/Haidakhan.1987574b09cd22a9da83.jpg",
+    "static/media/capm.jpg": "/ProfileTest/static/media/capm.5c24843adc36a9bab752.jpg",
+    "static/media/garudeshwar.jpg": "/ProfileTest/static/media/garudeshwar.201a43b73c662395058d.jpg",
+    "index.html": "/ProfileTest/index.html",
+    "main.d1705ff4.css.map": "/ProfileTest/static/css/main.d1705ff4.css.map",
+    "main.da6e3cad.js.map": "/ProfileTest/static/js/main.da6e3cad.js.map",
+    "453.32bc8d24.chunk.js.map": "/ProfileTest/static/js/453.32bc8d24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1705ff4.css",
+    "static/js/main.da6e3cad.js"
+  ]
+}
